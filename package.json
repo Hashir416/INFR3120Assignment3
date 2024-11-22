@@ -9,6 +9,9 @@
   "author": "Hashir Sheikh",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^3.4.1",
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
     "express": "^4.21.1"
   }
 }
